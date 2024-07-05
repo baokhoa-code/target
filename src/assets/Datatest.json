@@ -1,0 +1,9 @@
+{
+    "menu2": [
+        {
+            "key": "/dssv",
+            "label": "Danh sách sinh viên",
+            "icon": "UserOutlined"
+        }
+    ]
+}
